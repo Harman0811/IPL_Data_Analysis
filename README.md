@@ -27,11 +27,17 @@ matches.csv
 deliveries.csv
 
 # Tools and Technologies Used
+
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Google colab notebook
 
 # Learning Outcomes
