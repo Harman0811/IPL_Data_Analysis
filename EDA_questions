@@ -11,6 +11,9 @@ With the help of Exploratory Data Analysis (EDA) using Python.
 5. What is the distribution of runs scored in matches?
 6. Which venues are high scoring?
 7. How do teams perform while chasing vs batting first?
+8. Which batsman has best strike rate (min 1000 runs)?
+9. Which bowler has best economy (min overs bowled)?
+10. Which team is best at chasing?
 
 These questions will help me understand player performance, team strength, and match patterns.
 
