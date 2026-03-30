@@ -12,15 +12,11 @@ The project serves as a learning-focused data analysis workflow, demonstrating h
 
 The main goals of this project are:
 
-Perform exploratory data analysis (EDA) on IPL datasets
-
-Clean and preprocess real-world sports data
-
-Analyze team and player performance
-
-Visualize key statistics using Python
-
-Develop a structured data analysis project suitable for a portfolio
+* Perform exploratory data analysis (EDA) on IPL datasets.
+* Clean and preprocess real-world sports data.
+* Analyze team and player performance.
+* Visualize key statistics using Python.
+* Develop a structured data analysis project suitable for a portfolio.
 
 # Data sets used are :
 matches.csv
@@ -28,28 +24,19 @@ deliveries.csv
 
 # Tools and Technologies Used
 
-Python
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Seaborn
-
-Google colab notebook
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Google colab notebook
 
 # Learning Outcomes
 
 Through this project, the following data analysis skills are practiced :
 
-Data cleaning and preprocessing
-
-Exploratory data analysis
-
-Data visualization
-
-Analytical thinking
-
-Project structuring for data science
+* Data cleaning and preprocessing
+* Exploratory data analysis
+* Data visualization
+* Analytical thinking
+* Project structuring for data science
