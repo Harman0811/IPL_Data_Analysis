@@ -19,8 +19,9 @@ The main goals of this project are:
 * Develop a structured data analysis project suitable for a portfolio.
 
 # Data sets used are :
-matches.csv
-deliveries.csv
+
+* matches.csv
+* deliveries.csv
 
 # Tools and Technologies Used
 
