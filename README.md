@@ -42,4 +42,4 @@ Through this project, the following data analysis skills are practiced :
 * Analytical thinking
 * Project structuring for data science
 
- Although in this I have only understood the usage of python language and the impotant libraries like Pandas, Numpy, Matplotlib, Seaborn but throughtout this project I have truely enhanced my coding skills and in my future projects I will surely showcase the upgraded version of my skills with better knowledge and usage of the libraries with more advanced project ideas.
+# Although in this I have only understood the usage of python language and the impotant libraries like Pandas, Numpy, Matplotlib, Seaborn but throughtout this project I have truely enhanced my coding skills and in my future projects I will surely showcase the upgraded version of my skills with better knowledge and usage of the libraries with more advanced project ideas.
